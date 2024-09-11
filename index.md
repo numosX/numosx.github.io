@@ -2,7 +2,6 @@
 
 ## para 1
 * Youtube test
-[](https://youtube.com/watch?v=vkxeYgtVURk)
-
+* [gimmick:hint](hogehoge)
 ## para 2
 * hogehoge
