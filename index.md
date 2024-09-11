@@ -2,6 +2,6 @@
 
 ## para 1
 * Youtube test
-hint:hogehoge
+Hint: This is a hint.
 ## para 2
 * hogehoge
