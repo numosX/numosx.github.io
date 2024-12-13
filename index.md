@@ -14,22 +14,7 @@
 * 興味のある方は[このページ](https://numos.fanbox.cc/)をご覧ください
 
 ![](./images/1.png)
-![](./images/1.png)
-
-![](./images/1.png)
-![](./images/1.png)
-![](./images/1.png)
-
-文字列テスト
-
-![](./images/1.png)
-![](./images/1.png)
-![](./images/1.png)
-![](./images/1.png)
-
-![](./images/1.png)
-文字列テスト
-note: のーと
+![](./images/2.png)
 
 ## このページの使い方
 * ctrl + shift + R で最新情報に更新。
