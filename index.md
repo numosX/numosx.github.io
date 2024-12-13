@@ -9,8 +9,9 @@
   * [Youtube 技術チャンネル](https://www.youtube.com/channel/UCI5nkn0_yAdx9LfP8exWSHg?sub_confirmation=0?sub_confirmation=1)
 
 ## 支援者向けコンテンツ
-* [FANBOX](https://numos.fanbox.cc/) の支援者向けコンテンツとして動画を追加中
-* 興味のある方は[このページ](https://numos.fanbox.cc/)からアクセス権をゲットしてください
+* [FANBOX](https://numos.fanbox.cc/) の支援者向けコンテンツ
+* 現在動画を追加中
+* 興味のある方は[このページ](https://numos.fanbox.cc/)をご覧ください
 
 ![](./images/1.png)
 ![](./images/1.png)
